@@ -39,9 +39,7 @@ document2 = clean_text(document2)
 
 print("-" * 40)
 
-print() Bence şimdilik bu projeyi de bu bitmiş haliyle GitHub'a pushlayayım.
-
-Daha sonraki projelerimizde dediğim dosyaları da ekleyip, nasıl profesyonelleştiğimi gösterebiliriz.
+print()
 print("Document 1")
 print(document1)
 
