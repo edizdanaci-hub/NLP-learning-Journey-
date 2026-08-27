@@ -1,3 +1,4 @@
+#!!!!!GloVe 6B 50d pretrained embeddings are downloaded separately.!!!!!!
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
